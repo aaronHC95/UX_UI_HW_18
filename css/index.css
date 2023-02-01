@@ -100,3 +100,21 @@ ul {
 footer {
     background-color: #373738;
 }*/
+
+/* Jonathan Edits */
+
+.logo, .nav {
+    display: inline-block;
+}
+
+.header {
+    margin: 0;
+}
+
+ul.nav .nav-item {
+    display:  inline-block;
+}
+
+.header .container-fluid.d-flex {
+    justify-content: space-between;
+}
